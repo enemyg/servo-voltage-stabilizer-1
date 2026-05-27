@@ -13,3 +13,6 @@ Electronics hardware
 Control systems
 Circuit design
 Multisim simulation
+
+Author
+P Guna Sai Ganesh
